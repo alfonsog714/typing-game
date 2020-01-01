@@ -8,6 +8,20 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
+    background-color: #1B2432;
+}
+
+body, .quote-input {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    /* border: 1px solid red; */
+    background-color: #403F4C;
+    border-radius: .5rem;
+    width: 700px;
+    max-width: 70%;
+    padding: 1rem;
 }
 
 .quote-input {
