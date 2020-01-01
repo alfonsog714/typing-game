@@ -17,14 +17,25 @@ body, .quote-input {
 
 .container {
     /* border: 1px solid red; */
-    background-color: #403F4C;
+    background-color: #62BEC1;
     border-radius: .5rem;
     width: 700px;
     max-width: 70%;
     padding: 1rem;
 }
 
+.timer {
+    position: absolute;
+    top: 2rem;
+    font-weight: bold;
+    font-size: 4rem;
+    color:#62BEC1;
+}
+
 .quote-input {
     resize: none;
 }
 
+.quote-display {
+    margin-bottom: 1rem;
+}
