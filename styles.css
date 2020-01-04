@@ -35,7 +35,7 @@ body, .quote-input {
 .quote-input {
     background: none;
     border: #3F797B 2px solid;
-    border-radius: .3rem;
+    border-radius: .5rem;
     width: 100%;
     margin: auto;
     outline: none;
